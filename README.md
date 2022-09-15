@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Shivaya-dav&show_icons=true">
 
-<!--
-**shivaya-dav/shivaya-dav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Shivayadav:
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/shivaya.dav/)
+[![me@script@hacksec.in](https://img.shields.io/static/v1?label=me@Shivaya-dav&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:shivayadavvt1@gmail.com)
+  
+  
+👨‍💻 18 Years old Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚧 **Current Project:** dogelina > https://dogelina.com
+
+⭐️ From [Shivaya-dav](https://github.com/shivaya-dav)
