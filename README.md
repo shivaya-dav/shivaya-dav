@@ -2,8 +2,8 @@
 
 ### Hi there I'm Shivayadav:
 
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/shivaya.dav/)
-[![me@script@hacksec.in](https://img.shields.io/static/v1?label=me@Shivaya-dav&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:shivayadavvt1@gmail.com)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/CyberShieldX/)
+[![me@script@hacksec.in](https://img.shields.io/static/v1?label=me@Shivaya-dav&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:CyberShieldX@gmail.com)
   
   
 👨‍💻 18 Years old Developer
