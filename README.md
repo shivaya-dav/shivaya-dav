@@ -3,7 +3,7 @@
 ### Hi there I'm Shivayadav:
 
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/CyberShieldX/)
-[![me@script@hacksec.in](https://img.shields.io/static/v1?label=me@Shivaya-dav&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto: shivayadavyt1@gmail.com)
+[![me@script@hacksec.in](https://img.shields.io/static/v1?label=me@Shivaya-dav&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:shivayadavyt1@gmail.com)
   
  ```diff 
 As a first-year BCA student named Shiva Yadav, my focus 
