@@ -1,11 +1,11 @@
 ## Hi there, I'm Shiva Yadav 👋
 
-[![Instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/cybershieldx/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wigmur/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shivaya_dav)
-[![Twitter](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg)](https://twitter.com/cybershieldx)
-[![LinkedIn](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg)](https://www.linkedin.com/in/shivayadavdev/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wigmur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wigmur/)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=shivaya-dav.DogeRat)
+
 
 I'm Shiva Yadav, a passionate self-taught full-stack Android developer and a freelance software engineer from India. My passion for software lies in turning ideas into reality with elegant interfaces. I prioritize the user experience, architecture, and code quality in everything I create.
 
