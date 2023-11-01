@@ -1,33 +1,22 @@
-### hey there 
-<a href="https://www.instagram.com/shivaya.dav/">
-  <img align="left" alt="shiva's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://t.me/shivaya_dav">
-  <img align="left" alt="shiva's telegram" width="100px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://twitter.com/cybershieldx">
-  <img align="left" alt="shiva yadav | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/shivayadavdev/">
-  <img align="left" alt="shiva's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+## Hi there, I'm Shiva Yadav 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=shivaya-dav.DogeRat)
+[![Instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://www.instagram.com/cybershieldx/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shivaya_dav)
+[![Twitter](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg)](https://twitter.com/cybershieldx)
+[![LinkedIn](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg)](https://www.linkedin.com/in/shivayadavdev/)
 
-<br />
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=shivaya-dav.DogeRat)
 
-hi, i'm [shiva yadav](https://cybershieldx.com/), a passionate self-taught full stack android developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+I'm Shiva Yadav, a passionate self-taught full-stack Android developer and a freelance software engineer from India. My passion for software lies in turning ideas into reality with elegant interfaces. I prioritize the user experience, architecture, and code quality in everything I create.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'm also an open-source enthusiast and maintainer, and I'm grateful for the knowledge and collaboration that open source provides.
 
+![Coding GIF](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:shivayadavyt1@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Open to freelance opportunities: [Email me](mailto:shivayadavyt1@gmail.com)
+- 💬 Feel free to ask me anything; I'm here to help.
 
-**languages and tools:**  
-
+**Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -38,16 +27,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
+📊 **This week I spent my time on:**
 ```text
-kotlin   2 hrs 46 mins   ███████████████▓░░░░░░░░░   63.06 %
-Nodejs   47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-JSON         43 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
-HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-php        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Kotlin   2 hrs 46 mins   ███████████████▓░░░░░░░░░   63.06%
+Node.js  47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.94%
+JSON     43 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57%
+HTML     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59%
+CSS      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31%
+PHP      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24%
+
 ```
 
 <!--END_SECTION:waka-->
